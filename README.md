@@ -8,7 +8,7 @@ For this project, the goal was to create a web application for users to generate
 
 To navigate to the web application in your browser, click [here](https://ndallich1.github.io/password-generator/)
 
-![screenshot of web application](./assets/images/03-javascript-homework-demo.png)
+![screenshot of web application](./Assets/03-javascript-homework-demo.png)
 
 # Credits
 
